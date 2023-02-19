@@ -1,0 +1,25 @@
+.Cources2{
+    display: flex;
+    padding: 0px 0px;
+    margin:30PX 50PX;
+    height: 130vh;
+    padding-top: 10vh;
+  
+   
+}
+.left12{
+    flex: 1;
+}
+.right{
+    flex: 1;
+}
+.contener{
+    display: flex;
+    height: 50vh;
+    
+}
+
+.content1{
+    padding-left: 20px;
+   
+}
